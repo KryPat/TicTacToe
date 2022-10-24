@@ -1,5 +1,6 @@
 # TicTacToe
-Java TicTacToe simple game;
+Java TicTacToe simple game
 
-No GUI yet;
-No AI yet;
+No GUI yet
+
+No AI yet
